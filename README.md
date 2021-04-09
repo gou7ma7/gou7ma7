@@ -4,7 +4,7 @@
 - Loc in ShenZhen；
 - NOIP划水选手，没打成ACM是我最大的遗憾，看我现在怎么弥补了；
 - 远离游戏和狼人杀中 ...
-
+- studying [MySQL](https://github.com/gou7ma7/blogs#14-db) ...
 <!---
 gou7ma7/gou7ma7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
