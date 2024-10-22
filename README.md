@@ -1,10 +1,11 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gou7ma7)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gou7ma7&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gou7ma7)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Doing
 - [ ] kubernetes （暂时业务用不上，没有去研究了）
 - [ ] Dcoker
-- [ ] - 两天1题
+- [ ] 两天1题
 - [ ] https://gou7ma7.github.io/2022/05/29/TODO-LIST/
 
 ### Plan
