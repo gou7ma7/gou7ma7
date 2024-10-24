@@ -15,7 +15,7 @@ https://www.shengwang.cn/aboutus/ (China) / https://www.agora.io/en/about-us/ (U
 
 ### Doing
 - [ ] kubernetes （手动搭建 + 更多实践）
-- [ ] Dcoker。（系统看书）
+- [ ] 《图解HTTP》
 - [ ] 两天1题
 
 ### Done & TODO list
