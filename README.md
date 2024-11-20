@@ -17,7 +17,8 @@ Learn more about our teams: [China branch](https://www.shengwang.cn/aboutus/) | 
 ### Tasks in Progress for November
 - [ ] kubernetes （手动搭建 + 更多实践）
 - [x] 《图解HTTP》
-- [ ] 《图解TCP/IP》
+- [x] 《图解TCP/IP》
+- [ ] 《Python Cookbook》
 - [ ] 两天1题 并录制英文讲解视频
 
 ### Done & TODO list
