@@ -14,12 +14,17 @@ Learn more about our teams: [China branch](https://www.shengwang.cn/aboutus/) | 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gou7ma7)](https://github.com/anuraghazra/github-readme-stats)
 
+### Tasks in Progress for December
+- [ ] 系统学习 terraform
+- [ ] 系统使用 AWS
+- [ ] 准备雅思
+
 ### Tasks in Progress for November
 - [ ] kubernetes （手动搭建 + 更多实践）
 - [x] 《图解HTTP》
 - [x] 《图解TCP/IP》
 - [ ] 《Python Cookbook》
-- [ ] 两天1题 并录制英文讲解视频
+- [x] 两天1题 并录制英文讲解视频
 
 ### Done & TODO list
 https://gou7ma7.github.io/2022/05/29/TODO-LIST/
