@@ -1,6 +1,3 @@
-以下是润色后的自我介绍，包含了英文和中文部分，并补充了缺失的内容：
-
----
 
 ### Hi there 👋 This is Roy Lee! ✨ 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%BA%A2%E7%9D%BF-%E6%9D%8E-a2a612157/)
@@ -19,6 +16,7 @@ Learn more about our teams: [China branch](https://www.shengwang.cn/aboutus/) | 
 
 ### Seeking for a new job
 I am going to be laid off at the end of 2024.
+
 Seeking for a DevOps or Test Development Engineer job.
 
 
@@ -49,6 +47,3 @@ In the future, I plan to delve deeper into the DevOps field, focusing on cloud-n
 - 参与一些开源项目
 - 翻译部分文档
 
----
-
-希望这个版本的自我介绍能够更清晰地展示你的背景和目标！如果需要进一步修改或添加内容，请告诉我！
