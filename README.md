@@ -1,87 +1,67 @@
-
 ### Hi there 👋 This is Roy Lee! ✨ 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%BA%A2%E7%9D%BF-%E6%9D%8E-a2a612157/)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/776431) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%BA%A2%E7%9D%BF-%E6%9D%8E-a2a612157/) [![Blog](https://img.shields.io/badge/-Blog-red?style=flat&logo=Blog&logoColor=white)](https://gou7ma7.github.io/)
 
-Welcome to my GitHub profile!
+---
 
-My Chinese name is 李红睿 (Li Hongrui).
+### About Me 
 
-I used to be a DevOps and RD Efficiency Development Engineer at **Shengwang** (China) / **Agora** (US) **NASDAQ: API**.
+I'm Roy Lee (Li Hongrui in Chinese), a DevOps and Python backend engineer with experience in multiple NASDAQ-listed companies. My most recent role was at **Agora (NASDAQ: API)**, where I worked as a Developer Productivity Engineer.
 
-Learn more about our teams: [China branch](https://www.shengwang.cn/aboutus/) | [US branch](https://www.agora.io/en/about-us/).
+After being laid off in early 2024, I've been actively seeking opportunities in **DevOps**, **Python Backend Development**, and **Test Automation Engineering**. My career began in UI automation testing, and I've since transitioned into DevOps, focusing on improving development efficiency and infrastructure.
 
-### Looking for a new job
-I was laid off at the end of 2024.
+My early career experiences are quite repetitive, so I'll share a video of my talk at the PyCon developer conference instead of detailing them here. It provides a comprehensive overview: [My PyCon Shenzhen Talk: Joining a Tencent-backed Mid-sized Company, Summarizing My First 2 Years of Work Experience, and Advice for Newcomers](https://www.bilibili.com/video/BV1Wv411b7Gm).
 
-I am seeking a DevOps or Test Development Engineer position.
 
-### Visualized Study Flow project
-https://github.com/gou7ma7/StudyFlow
+我是 李红睿 （Li Hongrui），曾任职于多家纳斯达克上市公司，担任 DevOps 和 Python 后端工程师。最近一份工作是在 **声网（Agora，NASDAQ: API）** 担任研发效率开发工程师。
 
-I created this project to help me visualize my study flow and track my progress.
+2024 年初被裁员后，我一直在积极寻找 **DevOps**、**Python 后端开发** 和 **测试开发** 相关的职位。我的职业生涯从 UI 自动化测试开始，后来逐渐转向 DevOps，专注于提升研发效率和基础设施优化。
 
-You can also see my coding style and project structure.
+早期经历重复度很高，因此放一个我在 pycon 开发者大会中的演讲视频，里面有详细的介绍，就不在此赘述，[我在pycon深圳的演讲：进腾讯投资的中厂、总结前2年工作心得和对新人的建议](https://www.bilibili.com/video/BV1Wv411b7Gm)。
 
-### About Me
-I started my career in UI automation testing development and have transitioned into DevOps. 
-
-Although my work has always been based on Python and focused on efficiency development, my technical stack is broad but not deep. 
-
-In the future, I plan to delve deeper into the DevOps field, focusing on cloud-native ecosystems and virtualization implementations, while also exploring the principles behind UI automation.
-
-### Hi there 👋 This is Roy Lee! ✨ 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%BA%A2%E7%9D%BF-%E6%9D%8E-a2a612157/)
-
-欢迎来到我的 GitHub 主页！
-
-我的中文名字是李红睿 (Li Hongrui)。
-
-我曾是**声网**（中国）/ **Agora**（美国）**NASDAQ: API** 的 DevOps 和研发效率开发工程师。
-
-了解更多关于我们的团队：[中国分部](https://www.shengwang.cn/aboutus/) | [美国分部](https://www.agora.io/en/about-us/).
+---
 
 ### Seeking a New Job
-我在 2024 年底被裁员。
 
-正在寻找 DevOps 或测试开发工程师的职位。
+I'm currently looking for roles in **DevOps**, **Python Backend Development**, and **Test Automation Engineering**. If you're hiring or know of any opportunities, feel free to reach out!
 
-### Visualized Study Flow Project
-https://github.com/gou7ma7/StudyFlow
+我正在寻找 **DevOps**、**Python 后端开发** 和 **测试开发** 相关的职位。如果你有合适的职位或机会，欢迎联系我！
 
-我创建了这个项目来帮助我可视化学习流程并跟踪我的进度。
+---
 
-你可以看到我的代码风格和项目结构。
+### Skills & Learning
 
-### About Me
-我从 UI 自动化测试开发开始了我的职业生涯，并逐渐转向 DevOps。
+- **Strengths**: Proficient in Python, end-to-end development experience, quick learner, adaptable. 
+- **Weaknesses**: Broad but not deep technical stack; I'm actively working on deepening my expertise in key areas.
+- **Current Focus**: AI in DevOps (AIOps), Kubernetes, and Python backend development.
+- **English**: Fluent in business English communication (emails, meetings), though technical vocabulary needs more practice in work scenarios.
 
-虽然我的工作一直基于 Python 并专注于效率开发，但我的技术栈广而不深。
+<br>
 
-未来，我计划深入研究 DevOps 领域，专注于云原生生态系统和虚拟化实现，同时探索 UI 自动化背后的原理。
-
-### 目前进行的任务 (Tasks in Progress for December)
-- [ ] 系统学习 Terraform
-- [ ] 系统使用 AWS
-- [ ] 准备雅思
-
-### 11月进行的任务 (Tasks in Progress for November)
-- [ ] Kubernetes （手动搭建 + 更多实践）
-- [x] 《图解HTTP》
-- [x] 《图解TCP/IP》
-- [ ] 《Python Cookbook》
-- [x] 两天1题，并录制英文讲解视频
-
-### 完成与待办列表 (Done & TODO list)
-[TODO LIST](https://gou7ma7.github.io/2022/05/29/TODO-LIST/)
-
-### 计划 (Plan)
-- 阅读一些底层源码
-- 参与一些开源项目
-- 翻译部分文档
+- **优点**: 熟悉 Python 生态，有多段端到端开发经验，学习能力强，适应能力强，最后 OKR 都完成了。
+- **缺点**: 技术栈广而不深，急需一份相对稳定的业务精进技术。
+- **当前重点**: AI 在 DevOps 中的应用（AIOps）、Kubernetes 和 Python 后端开发。
+- **英语**: 日常的邮件、口语会议交流没问题，能进行商务英语沟通，但专业词汇还需要业务场景的锻炼才能更加熟练。
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gou7ma7&show_icons=true)
+
+![skill-tree](https://gou7ma7.github.io/images/skill-tree.png)
+
+The tech industry is rapidly evolving, especially with the rise of AI. During my job search, I've realized that simply relying on past experiences isn't enough. In one interview with a top-tier global company, I aced the technical rounds but was challenged during the leadership interview: "Don't just talk about AI in your side projects. Show us how you can learn and integrate new technologies into our needs." This was a wake-up call for me. I've decided to embrace the AI revolution, whether it's deploying AI products or using AI to optimize traditional DevOps workflows.
+
+I'm now focused on building a solid foundation while staying ahead of industry trends. I've even deleted my 4-year-old blog to start fresh, rediscovering the joy of learning and documenting my journey. Check out my [Skill Tree](https://gou7ma7.github.io/2025/02/05/skill-tree/index/) to see my learning roadmap.
+
+最近找工作时，发现很多岗位已经有了 AI 相关的需求。最近面某家国际一流公司，前面技术面都秒过了，结果领导面的时候被质疑了："我问你 AI 相关的经历，不是总听你说你用 AI 做了啥副业，我更想听你怎么快速学习我们需要的技术，怎么把它们整合到现有业务里。"
+
+虽然缺乏业务环境导致我只能在我的副业工作流里面落实 AI ，但既然企业想要这方面的人才，那我至少也应该先自行学习，那位领导所说的“技术对每个人都是公平的”，我深以为然，并且要落实。
+
+我现在一边打基础，一边追新趋势。连写了 4 年的博客都删了，重新开始学习打卡，感觉又找回了当初学习的那种新鲜劲儿。进度在[技能树](https://gou7ma7.github.io/2025/02/05/skill-tree/index/)
+https://gou7ma7.github.io/2025/02/05/skill-tree/index/
+
+---
+
+### Let's Connect!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/%E7%BA%A2%E7%9D%BF-%E6%9D%8E-a2a612157/) or [Bilibili](https://space.bilibili.com/776431). Let's collaborate and grow together!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gou7ma7)](https://github.com/anuraghazra/github-readme-stats)
 
-   <iframe src="http://www.baidu.com" width="600" height="400"></iframe>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gou7ma7&show_icons=true)
