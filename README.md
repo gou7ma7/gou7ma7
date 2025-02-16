@@ -7,14 +7,14 @@
 
 I'm Roy Lee (Li Hongrui in Chinese), a DevOps and Python backend engineer with experience in multiple NASDAQ-listed companies. My most recent role was at **Agora (NASDAQ: API)**, where I worked as a Developer Productivity Engineer.
 
-After being laid off in early 2024, I've been actively seeking opportunities in **DevOps**, **Python Backend Development**, and **Test Automation Engineering**. My career began in UI automation testing, and I've since transitioned into DevOps, focusing on improving development efficiency and infrastructure.
+After being laid off at the end of 2024, I've been actively seeking opportunities in **DevOps**, **Python Backend Development**, and **Test Automation Engineering**. My career began in UI automation testing, and I've since transitioned into DevOps, focusing on improving development efficiency and infrastructure.
 
 My early career experiences are quite repetitive, so I'll share a video of my talk at the PyCon developer conference instead of detailing them here. It provides a comprehensive overview: [My PyCon Shenzhen Talk: Joining a Tencent-backed Mid-sized Company, Summarizing My First 2 Years of Work Experience, and Advice for Newcomers](https://www.bilibili.com/video/BV1Wv411b7Gm).
 
 
 我是 李红睿 （Li Hongrui），曾任职于多家纳斯达克上市公司，担任 DevOps 和 Python 后端工程师。最近一份工作是在 **声网（Agora，NASDAQ: API）** 担任研发效率开发工程师。
 
-2024 年初被裁员后，我一直在积极寻找 **DevOps**、**Python 后端开发** 和 **测试开发** 相关的职位。我的职业生涯从 UI 自动化测试开始，后来逐渐转向 DevOps，专注于提升研发效率和基础设施优化。
+2024 年末被裁员后，我一直在积极寻找 **DevOps**、**Python 后端开发** 和 **测试开发** 相关的职位。我的职业生涯从 UI 自动化测试开始，后来逐渐转向 DevOps，专注于提升研发效率和基础设施优化。
 
 早期经历重复度很高，因此放一个我在 pycon 开发者大会中的演讲视频，里面有详细的介绍，就不在此赘述，[我在pycon深圳的演讲：进腾讯投资的中厂、总结前2年工作心得和对新人的建议](https://www.bilibili.com/video/BV1Wv411b7Gm)。
 
