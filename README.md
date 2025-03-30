@@ -19,6 +19,13 @@
 ### Let's Connect!
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/%E7%BA%A2%E7%9D%BF-%E6%9D%8E-a2a612157/) or [Bilibili](https://space.bilibili.com/776431). Let's collaborate and grow together!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gou7ma7)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gou7ma7" alt="Top Langs">
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=gou7ma7&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=gou7ma7&show_icons=true" alt="Anurag's GitHub stats">
+  </a>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gou7ma7&show_icons=true)
+
