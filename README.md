@@ -22,7 +22,13 @@ After all, in the era of AI, automation jobs are the first to be impacted. I hop
 
 
 ### 2025年 5月
-本月的重点：技术上继续看 UI，基础上看 网络， AI 还没找好
+本月的重点：
+- 技术: 基于 千帆ModelBuilder 的 VL
+- AI: VL
+- 基础 - 网络:
+  -  ‌OSI 7层模型‌
+  -  ‌百度云相关
+  -  K8s网络
 
 
 [归档已读书籍](https://gou7ma7.github.io/2025/04/24/career/Archived%20Read%20Books/)
