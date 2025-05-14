@@ -34,3 +34,7 @@ After all, in the era of AI, automation jobs are the first to be impacted. I hop
 [归档已读书籍](https://gou7ma7.github.io/2025/04/24/career/Archived%20Read%20Books/)
 
 ![skill-tree](https://gou7ma7.github.io/images/skill-tree.png)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gou7ma7&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gou7ma7)](https://github.com/anuraghazra/github-readme-stats)
