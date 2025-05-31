@@ -20,7 +20,7 @@ After all, in the era of AI, automation jobs are the first to be impacted. I hop
 毕竟在 AI 时代，自动化这种工作岗位首当其冲，希望能平稳度过 大环境恶劣 和 AI 浪潮 的冲击。
 
 ---
-I now utilize a heatmap to guide and track my professional skill development, and document my progress using a heatmap. You can view the detailed dynamic data in the [Learning Progress Heatmap](https://gou7ma7.github.io/2025/02/05/heatmap/index/).
+I now utilize a heatmap to guide and track my professional skill development, and document my progress using a heatmap. You can view the detailed dynamic data in the [Learning Progress Heatmap](https://gou7ma7.github.io/2025/02/05/heatmap/index/).  
 如今我通过一个热力图指导并记录我的专业技能提升路径，你可以在 [学习进度热力图](https://gou7ma7.github.io/2025/02/05/heatmap/index/) 查看详细动态数据。
 ![skill-tree](https://gou7ma7.github.io/images/heatmap.png)
 
