@@ -10,7 +10,6 @@ Currently, I am working at Baidu on business tasks that combine automation with 
 
 After all, in the era of AI, automation jobs are the first to be impacted. I hope to smoothly ride out the tough external environment and the impact of the AI wave. 
 
----
 
 我是一名2017年毕业，一直从事 企业自动化效能开发 RPA 相关的自动化开发的程序员。
 
@@ -20,21 +19,22 @@ After all, in the era of AI, automation jobs are the first to be impacted. I hop
 
 毕竟在 AI 时代，自动化这种工作岗位首当其冲，希望能平稳度过 大环境恶劣 和 AI 浪潮 的冲击。
 
-
-### 2025年 5月
-本月的重点：
-- 技术: 基于 千帆ModelBuilder 的 VL
-- AI: VL
-- 基础 - 网络:
-  -  ‌OSI 7层模型‌
-  -  ‌百度云相关
-  -  K8s网络
+---
+I now utilize a heatmap to guide and track my professional skill development, and document my progress using a heatmap. You can view the detailed dynamic data in the [Learning Progress Heatmap](https://gou7ma7.github.io/2025/02/05/heatmap/index/).
+如今我通过一个热力图指导并记录我的专业技能提升路径，你可以在 [学习进度热力图](https://gou7ma7.github.io/2025/02/05/heatmap/index/) 查看详细动态数据。
+![skill-tree](https://gou7ma7.github.io/images/heatmap.png)
 
 
-[归档已读书籍](https://gou7ma7.github.io/2025/04/24/career/Archived%20Read%20Books/)
 
-![skill-tree](https://gou7ma7.github.io/images/skill-tree.png)
+[Archived Read Books](https://gou7ma7.github.io/2025/04/24/career/Archived%20Read%20Books/) / [归档已读书籍](https://gou7ma7.github.io/2025/04/24/career/Archived%20Read%20Books/)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gou7ma7&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gou7ma7)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+| Timeline      | Infrastructure | AI | Project | Cloud Baidu | Kubernetes | 
+| ----------- | ----------- |----------- | ----------- |----------- | ----------- |
+| 2025.06      |        |  |  |[Cloud Smart Network](https://cloud.baidu.com/doc/CSN/index.html)|
+| 2025.05   | reread [flask](https://www.oreilly.com/library/view/flask-web-development/9781491991725/) |[Vision Language Models](https://huggingface.co/blog/vlms)| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) |
