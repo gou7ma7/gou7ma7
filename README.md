@@ -1,7 +1,10 @@
 
 ### Hi there 👋 This is Roy Lee! ✨ 
-[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/776431)   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roy-lee-a2a612157/)   [![Blog](https://img.shields.io/badge/-Blog-red?style=flat&logo=Blog&logoColor=white)](https://gou7ma7.github.io/)
 
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/776431) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roy-lee-a2a612157/) 
+[![Blog](https://img.shields.io/badge/-Blog-red?style=flat&logo=Blog&logoColor=white)](https://gou7ma7.github.io/)
+ 
 I am a programmer who graduated in 2017 and has been engaged in automation development related to RPA (Robotic Process Automation) for enterprise automation efficiency. 
 
 My main technology stack includes Python-related DevOps (CI/CD) and UI automation, with business scenarios mainly focused on accelerating colleagues' efficiency and reducing manual operation processes.
