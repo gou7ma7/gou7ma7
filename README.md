@@ -42,5 +42,5 @@ I now utilize a heatmap to guide and track my professional skill development, an
 ---
 | Timeline      | Infrastructure | AI | Project | Cloud Baidu | Kubernetes | 
 | ----------- | ----------- |----------- | ----------- |----------- | ----------- |
-| 2025.06      |        |  |  |[Cloud Smart Network](https://cloud.baidu.com/doc/CSN/index.html)|
+| 2025.06      |    https://roadmap.sh/python    | https://roadmap.sh/ai-engineer |  |[Cloud Smart Network](https://cloud.baidu.com/doc/CSN/index.html)|
 | 2025.05   | reread [flask](https://www.oreilly.com/library/view/flask-web-development/9781491991725/) |[Vision Language Models](https://huggingface.co/blog/vlms)| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) |
