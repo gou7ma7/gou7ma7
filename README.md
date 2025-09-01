@@ -1,30 +1,39 @@
 
-### Hi there 👋 This is Roy Lee! ✨ 
+### Hi there 👋 This is Roy Lee! ✨  
+
 
 [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/776431) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roy-lee-a2a612157/) 
 [![Blog](https://img.shields.io/badge/-Blog-red?style=flat&logo=Blog&logoColor=white)](https://gou7ma7.github.io/)
- 
-I am a programmer who graduated in 2017 and has been engaged in automation development related to RPA (Robotic Process Automation) for enterprise automation efficiency. 
 
-My main technology stack includes Python-related DevOps (CI/CD) and UI automation, with business scenarios mainly focused on accelerating colleagues' efficiency and reducing manual operation processes.
+我现在在一家传媒公司从事 RPA + WorkFlow 的 AI Agent 相关工作。
 
-Currently, I am working at Baidu on business tasks that combine automation with technical support. Nowadays, I must fully commit to learning new technologies related to AI.
-
-After all, in the era of AI, automation jobs are the first to be impacted. I hope to smoothly ride out the tough external environment and the impact of the AI wave. 
+I'm currently working at a media company on RPA + WorkFlow AI Agent related projects.
 
 
-我是一名2017年毕业，一直从事 企业自动化效能开发 RPA 相关的自动化开发的程序员。
 
-主要技术栈是 Python 相关的 DevOps （CI/CD） 和 UI自动化，业务场景基本上都是加快同事效能，减少手工操作环节。
+2025年对我来说是复杂的一年，俗话说在百度上班只有两天是开心的，现在都体验过了。
 
-当前在百度从事自动化与技术支持结合相关的业务工作，如今必须全力学习 AI 相关的新技术，
+2025 has been a complex year for me. As the saying goes, there are only two happy days when working at Baidu, and I've now experienced both.
 
-毕竟在 AI 时代，自动化这种工作岗位首当其冲，希望能平稳度过 大环境恶劣 和 AI 浪潮 的冲击。
+
+
+马上也是要成为10年工作经验的人了，除了成为专家，就是被淘汰，现在这种环境只能不断学习，千万不要再重蹈当时被声网整个部门裁撤手忙脚乱的覆辙了。
+
+I'm about to become someone with 10 years of work experience. In this environment, you either become an expert or get eliminated. I can only keep learning constantly, and I must not repeat the chaotic situation when Agora's entire department was laid off.
+
+
+
+总算找到了时代前沿的工作，之后我将分为三大块学习： 基础知识 + 云计算知识 + AI相关知识，希望能不虚此行。
+
+Finally, I've found cutting-edge work. From now on, I'll focus on three main areas of learning: Basic knowledge + Cloud computing knowledge + AI-related knowledge. I hope this journey won't be in vain.
+
 
 ---
-I now utilize a heatmap to guide and track my professional skill development, and document my progress using a heatmap. You can view the detailed dynamic data in the [Learning Progress Heatmap](https://gou7ma7.github.io/2025/02/05/heatmap/index/).  
+
 如今我通过一个热力图指导并记录我的专业技能提升路径，你可以在 [学习进度热力图](https://gou7ma7.github.io/2025/02/05/heatmap/index/) 查看详细动态数据。
+
+I now utilize a heatmap to guide and track my professional skill development, and document my progress using a heatmap. You can view the detailed dynamic data in the [Learning Progress Heatmap](https://gou7ma7.github.io/2025/02/05/heatmap/index/).  
 <a href="https://gou7ma7.github.io/2025/02/05/heatmap/index/">
   ![skill-tree](https://gou7ma7.github.io/images/heatmap.png)
 </a>
@@ -40,7 +49,3 @@ I now utilize a heatmap to guide and track my professional skill development, an
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gou7ma7)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-| Timeline      | Infrastructure | AI | Project | Cloud Baidu | Kubernetes | 
-| ----------- | ----------- |----------- | ----------- |----------- | ----------- |
-| 2025.06      |    https://roadmap.sh/python    | https://roadmap.sh/ai-engineer |  |[Cloud Smart Network](https://cloud.baidu.com/doc/CSN/index.html)|
-| 2025.05   | reread [flask](https://www.oreilly.com/library/view/flask-web-development/9781491991725/) |[Vision Language Models](https://huggingface.co/blog/vlms)| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) |
