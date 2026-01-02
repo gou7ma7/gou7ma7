@@ -24,8 +24,3 @@
 年底之前做了好多前些年一直想做都没做完的事情，比如看完了好多书、视频课件、解读 Python 版本更新 和部份源码；
 
 也初步加入了一些社区，今年想要做出一些贡献。
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gou7ma7&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gou7ma7)](https://github.com/anuraghazra/github-readme-stats)
