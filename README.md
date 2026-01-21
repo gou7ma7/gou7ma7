@@ -21,7 +21,7 @@ You can call me Roy for easier pronunciation, or simply Li, which is my family n
 而后找一个职级为 合伙人-1 的创业公司做 “AI Agent”，结果一句话总结：草台班子 + 打零工 + 挂羊头卖狗肉，不可能有技术进步的，还经常加班到深夜；
 
 ## 2026年 新年计划
-好在年关之前找到了一份 Gen AI in golbal team 的工作，一段时间下来感叹这才是理想中正规的工作。
+好在年关之前找到了一份 Gen AI with global team 的工作，一段时间下来感叹这才是理想中正规的工作。
 
 终于有时间和精力做自己想做的事情了，脱离随时回消息和赶（随时变动的）需求的恐惧，看看我这一年能做点什么吧。
 
