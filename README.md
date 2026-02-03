@@ -6,6 +6,9 @@
 
 You can call me Roy for easier pronunciation, or simply Li, which is my family name. 
 
+## Now: AI Workflow
+最初2年从 UI自动化开始，经历了5年的围绕 Jenkins+K8s 的 CICD， 现在专注于围绕 Goose 构建 AI Drivern Workflow，深耕企业效能优化业务场景。
+
 ## 马上十年了
 从毕业加入 “只做事情”型 公司开始，就不可避免滑向 “熟练搬砖工”， 这正是各厉害前辈分享时最爱说到 “我没去 xx公司 就是因为听下来就没什么意思” 的那种工作。
 
