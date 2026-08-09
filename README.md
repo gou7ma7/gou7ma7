@@ -68,8 +68,5 @@ flowchart TB
 - [**go-markdown-server-with-mermaid**](https://github.com/gou7ma7/go-markdown-server-with-mermaid)
 ```
 
----
-
-> “It was the best of times, it was the worst of times.”
->
-> I think that is especially true of the AI era—and that makes it a fascinating time to build.
+>  “It was the best of times, it was the worst of times.”
+I think that is especially true of the AI era—and that makes it a fascinating time to build.
