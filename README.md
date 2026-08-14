@@ -51,22 +51,38 @@ That same approach also shapes the tools I build:
 
 ```mermaid
 flowchart TB
+    R1[["① schema-driven-<br/>resume-as-code"]]
     A["Existing LaTeX <br/> resume template"]
-    B["Schema-validated <br/>  YAML content"]
+    B["Schema-validated <br/> YAML content"]
     C["Jinja2 presentation layer"]
     D["Bilingual XeLaTeX resumes"]
 
+    R2[["② go-markdown-server-<br/>with-mermaid"]]
     E["Go Markdown server"]
     F["Mermaid diagram rendering"]
     G["E-ink reading adaptation"]
 
+    R3[["③ skill-compass"]]
+    H["A rough idea for <br/> learning with AI"]
+    I["Discussion-led <br/> product definition"]
+    J["Evidence-driven <br/> capability design"]
+    K["Lightweight check-ins <br/> and real-world use"]
+
+    R1 -.-> A
     A --> B --> C --> D
+
+    R2 -.-> E
     E --> F --> G
+
+    R3 -.-> H
+    H --> I --> J --> K
 ```
 
-- [**schema-driven-resume-as-code**](https://github.com/gou7ma7/schema-driven-resume-as-code)
-- [**go-markdown-server-with-mermaid**](https://github.com/gou7ma7/go-markdown-server-with-mermaid)
-```
+- [**① schema-driven-resume-as-code**:        YAML-driven bilingual resumes](https://github.com/gou7ma7/schema-driven-resume-as-code)
+- [**② go-markdown-server-with-mermaid**:     Mermaid Markdown for e-ink](https://github.com/gou7ma7/go-markdown-server-with-mermaid)
+- [**③ skill-compass**:                       Evidence-driven capability tracking](https://github.com/gou7ma7/skill-compass)
 
+
+---
 >  “It was the best of times, it was the worst of times.”
 I think that is especially true of the AI era—and that makes it a fascinating time to build.
